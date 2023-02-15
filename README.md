@@ -1,4 +1,4 @@
-<h3>  Hi 👋, I'm harshal kardile</h3>
+<h3 align="center">  Hi 👋, I'm harshal kardile</h3>
 - 🌱 I’m currently learning *computer Science*
 
 - 📫 How to reach me **harshalkardile01@gmail.com**
