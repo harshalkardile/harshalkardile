@@ -1,6 +1,7 @@
 <h3 align="center">  Hi 👋, I'm harshal kardile</h3>
 <h5 align="center">
   - 🌱 I’m currently learning *Computer Science*
+  
   - 📫 How to reach me **harshalkardile01@gmail.com**
 </h5>
 <!--<h3 align="left">Connect with me:</h3>
