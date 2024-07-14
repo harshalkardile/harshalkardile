@@ -1,6 +1,6 @@
 <h3 align="center">  Hi 👋, I'm Harshal kardile</h3>
 <h5 align="center">
-  -🌱 A Software Enthusiastic.
+  -🌱 A Software Enthusiast.
   
   -📫 How to reach me **harshalkardile01@gmail.com**
 </h5>
